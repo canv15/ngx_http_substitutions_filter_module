@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fngx_http_substitutions_filter_module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fngx_http_substitutions_filter_module?ref=badge_shield)
+
 nginx_substitutions_filter
     *Note: this module is not distributed with the Nginx source.
     Installation instructions can be found below.*
@@ -117,7 +119,7 @@ nginx_substitutions_filter
     *   fix a segment fault bug when output chain return NGX_AGAIN.
 
     *   fix a bug about last buffer with no linefeed. This may cause segment
-        fault. Thanks for Josef Fröhle
+        fault. Thanks for Josef FrÃ¶hle
 
     Changes with nginx_substitutions_filter 0.5 2010-04-15
 
@@ -177,3 +179,6 @@ nginx_substitutions_filter
     NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
     SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fngx_http_substitutions_filter_module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fngx_http_substitutions_filter_module?ref=badge_large)
